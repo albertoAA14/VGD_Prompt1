@@ -9,3 +9,5 @@ Console.WriteLine(123);
 
 Console.WriteLine("true");
 Console.WriteLine(true);
+Today, I learned how to use Console.WriteLine() in C# to print different types of values. I saw that it can print numbers (like 0.25F, 2.625, and 123), letters (like 'T'), decimal numbers (like 12.39816m), and even true or false
+
