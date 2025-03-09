@@ -12,3 +12,4 @@ Console.Write(" celsius.");
 
 
 
+Today, I learned how to declare and initialize variables in C#, including strings, integers, and decimals. I also explored how Console.Write() works to display output without adding new lines
